@@ -3,7 +3,7 @@
 
       <assemblyIdentity version="1.0.0.0"
          processorArchitecture="*"
-         name="ApplicationName"
+         name="FreeBASICForm"
          type="win32"/>
       <description>Optional description of your application</description>
 

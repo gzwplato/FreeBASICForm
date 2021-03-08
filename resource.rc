@@ -8,3 +8,30 @@
 //=============================================================================
 1 24 ".\manifest.xml"
 
+//=============================================================================
+// Menu, Toolbar icons
+//=============================================================================
+
+IDI_ABOUT       RCDATA ".\Resources\About.png"
+IDI_COPY     RCDATA ".\Resources\Copy.png"
+IDI_CUT       RCDATA ".\Resources\Cut.png"
+IDI_DELETE       RCDATA ".\Resources\Delete.png"
+IDI_FIND       RCDATA ".\Resources\Find.png"
+IDI_HELP       RCDATA ".\Resources\Help.png"
+IDI_NEW       RCDATA ".\Resources\New.png"
+IDI_OPEN       RCDATA ".\Resources\Open.png"
+IDI_OPENRECENT       RCDATA ".\Resources\OpenRecent.png"
+IDI_PASTE       RCDATA ".\Resources\Paste.png"
+IDI_PREFERENCES       RCDATA ".\Resources\Preferences.png"
+IDI_PRINT       RCDATA ".\Resources\Print.png"
+IDI_PROPERTIES       RCDATA ".\Resources\Properties.png"
+IDI_RECYCLE       RCDATA ".\Resources\Recycle.png"
+IDI_REDO       RCDATA ".\Resources\Redo.png"
+IDI_REFRESH       RCDATA ".\Resources\Refresh.png"
+IDI_REPLACE       RCDATA ".\Resources\Replace.png"
+IDI_SAVE       RCDATA ".\Resources\Save.png"
+IDI_SAVEAS       RCDATA ".\Resources\SaveAs.png"
+IDI_UNDO       RCDATA ".\Resources\Undo.png"
+//IDI_XXX       RCDATA ".\Resources\Xxx.png"
+//IDI_XXX       RCDATA ".\Resources\Xxx.png"
+
