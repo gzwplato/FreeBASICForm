@@ -12,6 +12,7 @@
 // Menu, Toolbar icons
 //=============================================================================
 
+IDI_APPICON       RCDATA ".\Resources\fblogo32.png"
 IDI_ABOUT       RCDATA ".\Resources\About.png"
 IDI_COPY     RCDATA ".\Resources\Copy.png"
 IDI_CUT       RCDATA ".\Resources\Cut.png"
@@ -32,6 +33,5 @@ IDI_REPLACE       RCDATA ".\Resources\Replace.png"
 IDI_SAVE       RCDATA ".\Resources\Save.png"
 IDI_SAVEAS       RCDATA ".\Resources\SaveAs.png"
 IDI_UNDO       RCDATA ".\Resources\Undo.png"
-//IDI_XXX       RCDATA ".\Resources\Xxx.png"
 //IDI_XXX       RCDATA ".\Resources\Xxx.png"
 
